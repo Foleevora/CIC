@@ -19,5 +19,9 @@ CIC is a program that creates cool images.
     
 # Example
 ![before](https://github.com/Foleevora/CIC/blob/master/image.jpg)
-->
+
+***
+
 ![after](https://github.com/Foleevora/CIC/blob/master/coolImage.png)
+
+**OMG, your images are on fleek!**
